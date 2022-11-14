@@ -16,7 +16,7 @@
 
 #include "mlx90632_hal.h"
 
-const char FW_VERSION[] PROGMEM = "V1.1.0";
+const char FW_VERSION[] PROGMEM = "V1.2.0";
 
 
 #ifdef ENABLE_USB_MSC // Mass Storage device Class
